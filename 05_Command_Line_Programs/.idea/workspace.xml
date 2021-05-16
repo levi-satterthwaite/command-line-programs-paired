@@ -20,7 +20,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MartianWeight">
     <configuration name="MakeChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.techelevator.MakeChange" />
       <module name="m01d05-command-line-programs-exercises-pair" />
@@ -34,8 +34,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MartianWeight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.MartianWeight" />
+      <module name="m01d05-command-line-programs-exercises-pair" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MartianWeight" />
         <item itemvalue="Application.MakeChange" />
       </list>
     </recent_temporary>
