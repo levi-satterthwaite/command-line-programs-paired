@@ -30,9 +30,9 @@ public class MartianWeight {
 
 		//double userStringToDoubleConversion =  Double.parseDouble(userEarthWeights);
 
-		String earthWeightsStringArray[] = userEarthWeights.split(" ");
+		String[] earthWeightsStringArray = userEarthWeights.split(" ");
 
-		int earthWeightsIntegerArray[] = new int[earthWeightsStringArray.length];
+		int[] earthWeightsIntegerArray = new int[earthWeightsStringArray.length];
 
 		for(int i = 0 ; i < earthWeightsStringArray.length ; i++) {
 
